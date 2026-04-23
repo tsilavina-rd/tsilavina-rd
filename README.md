@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 # Hey, I am Tsilavina
 
-### Software Engineering Student @ 42 Antananarivo
+### 👨‍💻 Software Engineering Student @ 42 Antananarivo
 Exploring the deep layers of low-level programming and system architecture.
 
 ---
 
-###  Tech Stack
+### 🛠 Tech Stack
 * **Core:** `C` | `Python` | `Shell (Bash)`
 * **OS:** `Linux` (Kernel enthusiast)
 * **Environment:** `VS Code` | `Neovim`
@@ -27,7 +27,7 @@ Exploring the deep layers of low-level programming and system architecture.
 
 ---
 
-###  Selected Projects (Common Core)
+### 🧩 Selected Projects (Common Core)
 * **Libft** • Building a custom standard C library.
 * **ft_printf** • Deep dive into variadic functions.
 * **get_next_line** • Mastering file descriptors and memory buffers.
@@ -35,6 +35,6 @@ Exploring the deep layers of low-level programming and system architecture.
 
 ---
 
-###  Connection
+### 🌑 Connection
 `Status: Learning...`
 `Location: 18° 52' S, 47° 30' E`
