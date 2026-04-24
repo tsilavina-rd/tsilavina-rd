@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=3A86FF&center=true&vCenter=true&width=500&lines=Hello!+I+am+Tsilavina;Welcome+to+my+404+world.;Currently+at+42+Common+Core;Exploring+low-level+systems..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=3A86FF&center=true&vCenter=true&width=500&lines=Hello!+I+am+Tsilavina;Currently+at+42+Common+Core;Exploring+low-level+systems...Welcome+to+my+404+world.;" alt="Typing SVG" />
 </p>
 
 # [tsilavina-rd] 👋
